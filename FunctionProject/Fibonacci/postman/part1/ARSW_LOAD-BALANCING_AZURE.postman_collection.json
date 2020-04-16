@@ -20,19 +20,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -52,19 +53,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -84,19 +86,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -116,19 +119,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -148,19 +152,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -180,19 +185,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -212,19 +218,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -244,19 +251,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -276,19 +284,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
@@ -308,19 +317,20 @@
 				}
 			],
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"url": {
 					"raw": "http://{{VM1}}:3000/{{nth}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
 						"{{VM1}}"
-					],
-					"port": "3000",
-					"path": [
-						"fibonacci",
-						"{{nth}}"
 					]
+				},
+				"body" : {
+					"mode" : "raw",
+					"raw" : {
+						"nth" : "{{nth}}"
+					}
 				}
 			},
 			"response": []
