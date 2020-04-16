@@ -37,15 +37,30 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
-6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
+Informe:
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/arsw-lab9/master/images/informepunto5.jpeg)
+
+6. Cree una nueva Function que resuelva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?
 
 **Preguntas**
 
 * ¿Qué es un Azure Function?
+
+Un Azure Function es una solución para ejecutar fácilmente pequeños fragmentos de código o de funciones en la nube. Toma los conceptos básicos de los WebJobs y los amplía
+
 * ¿Qué es serverless?
+
+La computación sin servidor (serverless) es un modelo de ejecución en el que el proveedor en la nube es responsable de ejecutar un fragmento de código mediante la asignación dinámica de los recursos y cobra solo por la cantidad de recursos utilizados para ejecutar el código.
+
 * ¿Qué es el runtime y que implica seleccionarlo al momento de crear el Function App?
 * ¿Por qué es necesario crear un Storage Account de la mano de un Function App?
 * ¿Cuáles son los tipos de planes para un Function App?, ¿En qué se diferencias?, mencione ventajas y desventajas de cada uno de ellos.
 * ¿Por qué la memoization falla o no funciona de forma correcta?
 * ¿Cómo funciona el sistema de facturación de las Function App?
 * Informe
+
+
+**Referencias**
+
+* https://www.bravent.net/azure-function-caracteristicas-ventajas
+* https://serverless-stack.com/chapters/es/what-is-serverless.html
